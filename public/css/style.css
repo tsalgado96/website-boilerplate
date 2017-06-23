@@ -1,0 +1,7 @@
+.test {
+  background-color: red;
+  min-height: 100vh;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex; }
